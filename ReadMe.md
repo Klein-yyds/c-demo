@@ -28,60 +28,60 @@
 
 运行后进入登录界面：
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+![img](img/clip_image002.gif)
 
 系统有判空警告，往后输入不一一展示警告：
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)
+![img](img/clip_image004-1697197802158-3-1697197804756-5.gif)
 
 管理员登录后进入的界面可以看到所有乘客以及司机的信息
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif)
+![img](img/clip_image006.gif)
 
 管理员点击管理乘客信息后
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)
+![img](img/clip_image008.gif)
 
 通过下拉框选择要修改的乘客，后续界面的下拉框作用大致相同，就不一一展示
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif)
+![img](img/clip_image010.gif)
 
 管理员点击进入修改司机信息界面后
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif)
+![img](img/clip_image012.gif)
 
 对乘客和司机信息修改后，将返回管理员主界面，看到对应的信息被修改。可对比上面的管理员主界面，就可以看出明显变化。
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)
+![img](img/clip_image014.gif)
 
 乘客登录后进入乘客主界面，在这里你可以看到地图上所有地点。地图如下
 
-![map of europe with rail links connecting major cities](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image015.jpg)
+![map of europe with rail links connecting major cities](img/clip_image015.jpg)
 
 乘客界面如下
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image017.gif)
+![img](img/clip_image017.gif)
 
 乘客选择出发地以及目的地之后，点击确认，系统将自动展示预计最短耗时，最短耗时的路程以及路线。（不是所有两个地点之间都是互通的，小概率会碰到不是互通的出发地和目的地，此时系统会显示“对不起，您所查找的路线不存在”）同时乘客的状态会被改变成“需要乘车”。
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image019.gif)
+![img](img/clip_image019.gif)
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image021.gif)
+![img](img/clip_image021.gif)
 
 乘客点击修改个人信息后进入的界面
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image023.gif)
+![img](img/clip_image023.gif)
 
 司机登录后的进入司机主界面。可以看到所有有乘车需求的乘客，然后通过下拉框选择进行某个乘客的订单
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image025.gif)
+![img](img/clip_image025.gif)
 
 司机点击接单后会进入接单界面，此时司机的状态会被改变成“正在进行某某乘客的订单”。此时即使司机中途退出程序，也会直接进入接单界面而不会进入司机主界面。只有当司机点击完成订单后才能返回司机主界面。
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image027.gif)
+![img](img/clip_image027.gif)
 
 点击完成订单后返回主界面，可以看到主界面有乘车需求的乘客少了一个，因为该乘客的订单被完成了。
 
-![img](file:///C:/Users/Liang/AppData/Local/Temp/msohtmlclip1/01/clip_image029.gif)
+![img](img/clip_image029.gif)
 
 以上就是本项目的基本功能。
