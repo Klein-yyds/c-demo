@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>msgbox/tips.png</file>
+        <file>msgbox/warn.png</file>
+        <file>msgbox/backg.jpg</file>
+        <file>msgbox/tWork.jpg</file>
+    </qresource>
+</RCC>
